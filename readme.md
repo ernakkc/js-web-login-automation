@@ -4,7 +4,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/js-webdriver.git
+    git clone https://github.com/ernakkc/js-webdriver.git
     cd js-webdriver
     ```
 
@@ -15,7 +15,7 @@ To get started with this project, follow the steps below:
 
 3. **Run the script:**
     ```bash
-    node your-script.js
+    node main.js
     ```
 
 ## Prerequisites
